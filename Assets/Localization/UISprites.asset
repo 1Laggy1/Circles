@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4db626ad063b13545924a9839ac5fa83, type: 3}
+  m_Name: UISprites
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: f972bdc4479768e4fbfd815c359ebdb8, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 90e89c07c2dda2b47925a97419fcc533, type: 2}
+  - {fileID: 11400000, guid: 6ef8412da18bd924eaea305e8eca765d, type: 2}
+  - {fileID: 11400000, guid: 112f1c939295eb94485c8f5f2666ec26, type: 2}
+  m_Extensions: []
+  m_Group: Asset Table
+  references:
+    version: 1
